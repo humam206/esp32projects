@@ -3,8 +3,8 @@
   Blynk Flow Sensor Water Meter- Calculates Total Water Consumption.
 
   Original Source: https://github.com/pkarun/Blynk-Flow-Sensor-Water-Meter
-  in code from original source was copatible only in Blynk 1.0, so i just modified some of line code
-  which compatible with Blynk 2.0 as current version. 
+  in code from original source was copatible only in Blynk 1.0, so i just modified some of line codes
+  that compatible with Blynk 2.0 as current version. 
 */
 
 #define BLYNK_PRINT Serial           // Uncomment for debugging 

@@ -101,9 +101,9 @@ void flow()
     Serial.print(totalLitres);
     Serial.println("L");
 
-    Serial.print("  Jumlah Biaya Konsumsi : ");  // Print the cumulative total of cost since starting
+    Serial.print("  Total Cost : ");  // Print the cumulative total of cost since starting
     Serial.print(cost);
-    Serial.println("Rp");
+    Serial.println("$");
 
     pulseCount = 0;  // Reset the pulse counter so we can start incrementing again
 

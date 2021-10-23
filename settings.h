@@ -17,7 +17,7 @@
  *        Variable Settings
  **************************************************/
 
-#define FLOW_CALIBRATION 8.2 
+#define FLOW_CALIBRATION 8.2  // you can calibrate with your own self
  
 
 /***************************************************
@@ -26,7 +26,7 @@
 
 #define VPIN_TOTAL_LITERS       V1
 #define VPIN_FLOW_RATE          V0
-#define VPIN_FLOW_MILLI_LITERS  V3
+#define VPIN_FLOW_MILLI_LITERS  V3    // you can choose anathor Virtual pins as you want in your blynk app 
 #define VPIN_RESET              V2
 #define VPIN_COST               V4
 
